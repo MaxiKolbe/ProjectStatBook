@@ -10,4 +10,4 @@ Cyberpunk 2021 is an ongoing story archive and statbook built around characters,
 
 ## Current Entries
 
-- [[Cyberpunk_2021/artemis|Artemis]]
+- [Artemis](./artemis)
