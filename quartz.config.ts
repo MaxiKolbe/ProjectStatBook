@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-   baseUrl: "MaxiKolbe.github.io/ProjectStatBook",
+   baseUrl: "maxikolbe.github.io/ProjectStatBook",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
