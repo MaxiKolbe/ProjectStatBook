@@ -28,7 +28,7 @@ tags:
 | REFLEXES | 10 |
 | TECHNOLOGY | 7 |
 | INTELLIGENCE | 7 |
-| COMPOSURE | 10 |
+| COMPOSURE | 8 |
 | ATTRACTIVENESS | 10 |
 | EMPATHY | 10 / 10 |
 | LUCK | 10 / 10 |
@@ -56,7 +56,7 @@ tags:
 ## Social / Influence
 
 - Human Perception 5
-- Interview 7
+- Interview 4
 - Persuasion & Fast Talk 4
 - Perform 3
 - Seduction 5
@@ -76,13 +76,13 @@ tags:
 - Dodge & Escape 7
 - Handgun 7
 - Rifle 7
-- Submachinegun 5
+- Submachinegun 6
 - Heavy Weapons 3
 - Stealth 5
 - Driving 5
 - Motorcycle 4
 - Endurance 4
-- Swimming 3
+- Swimming 4
 
 ---
 
@@ -135,7 +135,7 @@ Includes:
 
 - Gym
 - Kitchen
-- Armory
+- Armoury
 - Workshop
 - Walk-in wardrobe
 
