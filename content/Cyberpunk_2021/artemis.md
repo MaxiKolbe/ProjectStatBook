@@ -110,9 +110,9 @@ None
 
 ---
 
-# Armor / Clothing
+# Armour / Clothing
 
-**Situational armor and clothing (mission-dependent)**
+**Situational armour and clothing (mission-dependent)**
 
 ---
 
@@ -146,7 +146,7 @@ Includes:
 - Black truck
 - Sedan
 - **Porsche 911 GT3** (blood-red racing stripes)
-- Matte-black armored SUV (infrared masking + thermal shielding)
+- Matte-black armoured SUV (infrared masking + thermal shielding)
 - Custom street bike (neon blue underglow)
 - Cherry-red vintage convertible
 - Restored **1969 Mustang Fastback**
@@ -158,6 +158,8 @@ Includes:
 - High-level security systems
 - Medical supplies
 - Multiple phones (work / personal separation)
+- Disguise & Identity Kit
+- Biometric Forgery Kit
 
 ---
 
@@ -184,6 +186,9 @@ Schedules, teams, and tech keep both lives running clean.
 
 ### Professional Reputation
 Known and respected beyond local circles.
+
+### Master of Disguise
+Exceptionally skilled at altering her physical appearance.
 
 ---
 
