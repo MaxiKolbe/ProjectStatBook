@@ -4,7 +4,7 @@ tags:
   - cyberpunk
 ---
 
-# Artemis
+# Artemis / Gina Kyung
 
 ![[artemis.png|300]]
 
