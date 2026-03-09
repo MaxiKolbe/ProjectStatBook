@@ -1,5 +1,5 @@
 ---
-title: Artemis
+title: Artemis / Gina Kyung
 tags:
   - cyberpunk
 ---
