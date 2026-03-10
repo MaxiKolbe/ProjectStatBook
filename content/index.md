@@ -20,5 +20,5 @@ ProjectStatBook contains:
 
 ## Universes
 
-- [Cyberpunk 2021](./Cyberpunk_2021/)
 - [Cosmere](./Cosmere/)
+- [Cyberpunk 2021](./Cyberpunk_2021/)
