@@ -1,8 +1,6 @@
 ---
-title: Remi Cage
+title: Remi "White" Cage
 ---
-
-# Remi “White” Cage
 
 ![[remi.jpg|300]]
 
