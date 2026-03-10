@@ -26,7 +26,7 @@ title: Shock
 | INTELLIGENCE | 10 |
 | COMPOSURE | 7 |
 | ATTRACTIVENESS | 6 |
-| EMPATHY | 8 / 8 |
+| EMPATHY | 7 / 8 |
 | LUCK | 3 / 3 |
 
 > [!warning] Humanity
@@ -34,7 +34,7 @@ title: Shock
 >
 > When Humanity reaches **0**, the person enters **psychosis**.
 
-| Humanity | 76 / 80 |
+| Humanity | 63 / 80 |
 
 ---
 
@@ -92,7 +92,7 @@ title: Shock
 
 # Cyberware
 
-- **Cybermodem Link (1)**  
+- **Cybermodem Link (4)**  
   Direct neural connection to a cybermodem.
 
 - **Amplified Hearing (1)**  
@@ -107,13 +107,22 @@ title: Shock
 
 # Cyberdeck
 
-**Neapolitan Camorra Cyberdeck**
+> [!warning] Cyberdeck Tier System
+> Cyberdecks are ranked by **performance tier**:
+>
+> **Basic → Advanced → Military → Experimental**
+>
+> Each tier represents a **major leap in capability**, including processing speed, intrusion power, signal strength, and system stability.
+>
+> Higher-tier cyberdecks dramatically improve what a netrunner can accomplish in the Net, but they also demand **greater mental resources** to operate and sustain.
+>
+> Skilled netrunners with superior hardware gain a significant advantage over those using lower-tier equipment.
+>
+> *(Basic / Advanced / Military / Experimental)*
+
+**Neapolitan Camorra Cyberdeck (10)**
 
 Portable deck *(Advanced tier)*
-
-*(Basic / Advanced / Military / Experimental)*  
-
-*(Exact program mechanics abstracted for narrative play.)*
 
 ---
 

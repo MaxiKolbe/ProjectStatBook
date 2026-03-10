@@ -2,8 +2,6 @@
 title: Cyberpunk Mechanics
 ---
 
-# Cyberpunk 2021 Mechanics
-
 The character statistics and skills used in the Cyberpunk 2021 archive are inspired by the **Cyberpunk 2020 tabletop roleplaying system**.
 
 These mechanics are used **loosely for narrative reference** rather than strict gameplay, but the underlying framework remains similar to the original game.
