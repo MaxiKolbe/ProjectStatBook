@@ -136,13 +136,14 @@ Includes:
 - Armoury
 - Workshop
 - Walk-in wardrobe
+- Secure high-level garage
 
 ---
 
 ### Vehicles
 
-- Black truck
-- Sedan
+- Black Ford F-150
+- Black civilian Sedan
 - **Porsche 911 GT3** (blood-red racing stripes)
 - Matte-black armoured SUV (infrared masking + thermal shielding)
 - Custom street bike (neon blue underglow)
@@ -175,6 +176,9 @@ Includes:
 
 ### Elite Solo
 Extremely high combat awareness, reflexes, and threat assessment.
+
+### Rising Global Fashion Model
+Experienced fashion model icon with millions of followers online, known for a strong social media presence and international appeal.
 
 ### Dual-Life Operator
 Maintains airtight separation between assassin and public persona.

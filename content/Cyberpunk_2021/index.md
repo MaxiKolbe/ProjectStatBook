@@ -14,6 +14,7 @@ The system provides a framework for representing character abilities, but it is 
 
 - [Mechanics](./mechanics)
 - [Skills List](./skillslist)
+- [The Playlist](./playlist)
 
 ## Current Folders
 
