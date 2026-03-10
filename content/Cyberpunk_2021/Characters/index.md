@@ -19,6 +19,8 @@ The system provides a framework for representing character abilities, but it is 
 ## Current Characters
 
 - [Artemis](./artemis)
+- [Azure](./azure)
 - [Mister](./mister)
+- [Michelangelo](./michelangelo)
 - [Remi](./remi)
 - [Shock](./shock)
