@@ -1,3 +1,7 @@
+---
+title: Master Skill List
+---
+
 # Master Skill List
 
 > [!info] Skill Levels

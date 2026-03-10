@@ -20,4 +20,4 @@ ProjectStatBook contains:
 
 ## Universes
 
-- [Cyberpunk_2021](./Cyberpunk_2021/)
+- [Cyberpunk 2021](./Cyberpunk_2021/)

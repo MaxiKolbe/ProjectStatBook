@@ -2,8 +2,6 @@
 title: Cyberpunk 2021
 ---
 
-# Cyberpunk 2021
-
 This section contains character sheets, factions, items, and worldbuilding related to the **Cyberpunk 2021** project.
 
 ## About
@@ -13,13 +11,9 @@ Cyberpunk 2021 is an ongoing story archive and statbook built around characters,
 Character statistics and skills are **loosely based on the tabletop RPG *Cyberpunk 2020*** by R. Talsorian Games.  
 The system provides a framework for representing character abilities, but it is used primarily as a **narrative reference rather than strict gameplay mechanics**.
 
-For a detailed explanation of how stats, skills, and checks work, see:
+- [Mechanics](./mechanics)
+- [Skills List](./skillslist)
 
-→ [Mechanics](./mechanics)
+## Current Folders
 
----
-
-## Current Entries
-
-- [Artemis](./artemis)
-- [Remi](./remi)
+- [[Cyberpunk_2021/Characters]]

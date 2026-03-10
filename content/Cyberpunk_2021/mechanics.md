@@ -1,7 +1,5 @@
 ---
 title: Cyberpunk Mechanics
-tags:
-  - cyberpunk
 ---
 
 # Cyberpunk 2021 Mechanics
@@ -17,8 +15,9 @@ These mechanics are used **loosely for narrative reference** rather than strict 
 Characters attempt actions using a **Skill Check**.
 
 The basic formula is:
-
 1d10 + STAT + SKILL
+
+→ [Skills List](./skillslist)
 
 ---
 
