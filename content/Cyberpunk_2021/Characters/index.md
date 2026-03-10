@@ -22,3 +22,4 @@ The system provides a framework for representing character abilities, but it is 
 - [Michelangelo](./michelangelo)
 - [Remi](./remi)
 - [Shock](./shock)
+- [Tetra](./tetra)
