@@ -2,8 +2,6 @@
 title: Characters
 ---
 
-# Characters
-
 This section contains a collection of the **more prominent characters within the [Cyberpunk 2021](./Cyberpunk_2021/) universe**.
 
 These pages serve as a **character reference archive**, documenting major individuals involved in the events, factions, and conflicts of the setting. Each entry includes background information, abilities, and relevant details tied to the broader story.

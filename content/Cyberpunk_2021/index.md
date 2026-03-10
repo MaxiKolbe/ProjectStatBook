@@ -12,11 +12,9 @@ Character statistics and skills are **loosely based on the tabletop RPG *Cyberpu
 
 The system provides a framework for representing character abilities, but it is used primarily as a **narrative reference rather than strict gameplay mechanics**.
 
-- [Cybernetics](./cybernetics)
-- [Mechanics](./mechanics)
-- [Skills List](./skillslist)
 - [The Playlist](./playlist)
 
 ## Current Folders
 
 - [[Cyberpunk_2021/Characters]]
+- [[Cyberpunk_2021/Gameplay]]
