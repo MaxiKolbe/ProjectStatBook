@@ -2,8 +2,6 @@
 title: Artemis / Gina Kyung
 ---
 
-# Artemis / Gina Kyung
-
 ![[artemis.png|300]]
 
 **Role:** Solo  
