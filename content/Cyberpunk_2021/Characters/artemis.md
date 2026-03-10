@@ -32,7 +32,7 @@ title: Artemis / Gina Kyung
 | LUCK | 10 / 10 |
 
 > [!warning] Humanity
-> Humanity is dependent on **Empathy**.
+> Humanity depends on Empathy and is reduced by cyberware or traumatic events.
 >
 > When Humanity reaches **0**, the person enters **psychosis**.
 
