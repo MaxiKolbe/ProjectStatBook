@@ -2,8 +2,6 @@
 title: Master Skill List
 ---
 
-# Master Skill List
-
 > [!info] Skill Levels
 > Skills range from **1–10**.
 >
