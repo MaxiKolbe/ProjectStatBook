@@ -363,5 +363,378 @@ title: Cybernetics
 | Poison Glands - Teeth | M | Natural fangs that inject poison when you bite | 500/1000 | 3d6 |
 | Poison Glands - Hands/Love | M | Can be used to coat Rippers or Wolvers | 500–1100 | 2d6+3 |
 | Tailored Pheromones - Love | M | +1 to Seduction. Nasal filters 60% effective | 1000 | 1d6/2 |
+| Tailored Pheromones – Gullible | M | +1 to Persuasion. Nasal filters 60% effective | 2000 | 1d6/2 |
+| Tailored Pheromones – Confu | M | -1 INT & Initiative (1m). Nasal filters 60% effective | 2500 | 1d6/2 |
+| "Kaloric" Secondary Gut | MA | Stores 2 days worth of food | 750 | 1d6/2 |
+| "Freezebath" Bioconstruct | MA | +1 Wilderness Survival/Endurance in -10°C | 650 | 1 |
+| Quickclot Hemofibrinic Node | MA | Wound states treated as one less, 10% stroke | 3000 | 1d6 |
+| Flashlight Implant | N | Non-glare, semi-focused glow, 1m range | 290 | 1–2 |
+| ReplicTech Toxin Screen | MA | 90% chance of vomiting if toxins are eaten | 3400 | 1d6/2 |
+| T-Maxx Leucoci Siphon | MA | Function without water for 24–48 hrs | 500 | 1 |
+| Altered DNA | N | DNA altered using a tailored retrovirus | 3000 | 0 |
+| Full-Spectrum Booster | N | +4 vs illness/infection/poison/drugs, +1 Healing | 7500 | 1d6+1 |
+| Sabre Serum RNA Mod | N | +2 MA, +3 BOD, +2 REF, +1 Heal, 60 day wait | NA | Special |
 
+---
+
+# Biological Enhancements
+
+| Enhancement | Surg. | Description | Cost | H.L. |
+|-------------|------|-------------|------|------|
+| Muscle Enhancement | N | +1 to BTM, but not for BTM | 1000 | 1d6/3 |
+| Reflex Boost | N | +1 REF (max +2). 25% chance -1 Stun/level | 3500 | 1d6+3 |
+| Enhanced Sight | M | 2 max: IR, UV, LL, Tele, Image Enh, Color Shift | 1200 | 2 each |
+| Enhanced Hearing | M | 2 max: Amplified Hearing or Extended Range | 1200 | 2 each |
+| Enhanced Sense of Smell | M | Same effects as Olfactory Boost | 1200 | 2 |
+| IHAG Nicitating Membrane | N | Can see in difficult conditions | 300 | 1d6/3 |
+| Sinus Reconstruction | CR | Pressure equalization. 200m depth | 1500 | 1d6/2 |
+
+---
+
+# Biotech Engineering
+
+> [!warning] Biotech
+> These upgrades involve **direct genetic and biological manipulation**, permanently enhancing the body rather than installing mechanical cyberware.
+
+| Biotech | Surg. | Description | Cost | H.L. |
+|--------|------|-------------|------|------|
+| Preparatory DNA Mapping | N | Required for all biotech | 2700 | 0 |
+| Permanent REF Increase | N | Max +1 | 5000 | 1d6+3 |
+| Permanent BOD Increase | N | Max +2 | 3400/+1 | 0 |
+| Permanent ATT Increase | N | Max +3 | 1600/+1 | 1+1 |
+| Permanent MA Increase | N | Max +4 | 2700/+1 | 1d6/2+1 |
+| Reduced Oxygen Demand | N | Can breathe smog | 5900 | 1 |
+| UV Resistance | N | No sunscreen needed | 7600 | 1d6 |
+| Toughened Skin | N | SP6 Soft Armor, can't be told from normal skin | 8300 | 0 |
+
+---
+
+# Bioenhancement Tabs
+
+> [!tip] Temporary Biochemical Enhancements
+> These are **chemical boosters rather than implants**.  
+> **Take one dose per day maximum.**
+
+| Enhancement | Effect | Cost |
+|-------------|--------|------|
+| Endurance | Ignore fatigue for 12 hours, x2 food, 1d3–1d6 damage | 1200 |
+| Ignore Pain | -4 to Stun Saves for 12 hours, -2 tactile sense | 1800 |
+| Anti-Trauma | +2 to Death Saves for 12 hours | 4000 |
+
+---
+
+# RNA Memory Tabs
+
+| Tab | Effect | Cost |
+|-----|-------|------|
+| Skill +1 | Lasts for 3 hours, 80% lose 2d6 skill/amnesia | 600 |
+| Skill +2 | Lasts for 3 hours, 1d10>2 or -1 in skill | 1800 |
+| Skill +3 | Lasts for 3 hours, 1d10>3 or -1 in skill | 5000 |
+
+---
+
+# Body Weapons
+
+> [!warning] Implanted Body Weapons
+> These cyberware systems turn the body itself into a weapon platform.
+
+| Weapon | Surg. | Description | Cost | H.L. |
+|-------|------|-------------|------|------|
+| Scratchers | N | Hands. 1d6/3 damage. Near impossible to spot | 100 | 2d6 |
+| Rippers | M | Hands. 1d6+3 damage. Difficult to spot | 400 | 3d6 |
+| Wolvers | M | Hands. 3d6 damage | 600 | 3d6+1 |
+| Big Knucks | M | Hands. 1d6+2 damage | 500 | 3d6 |
+| Slice N' Dice | M | Hands. 2d6+ damage | 700 | 3d6 |
+| Cybersnake | MA | Self controlling cyberweapon. 1d6 damage | 1200 | 4d6 |
+| Cybersnake Mk2 | MA | 2d6 eviscerate damage on crit/internal | 1600 | 4d6 |
+| Gang Jazzler | MA | 3 surges, immobilize for 1d10+1 mins | 600 | 2d6+3 |
+| Bonespike | MA | Pop up bone spike. 1d6+4 damage | 1000 | 2d6 |
+| Stinger | M | Finger mounted Hypodermic needle (3 doses) | 400 | 1d6+3 |
+| BigRipp | MA | 2d6+ damage (break on 1 or 1–3 on parry) | 1200 | 3d6+1 |
+| NovelTech Spitfire Flamer | MA | EX +0, P varies 4–1 ST 4m | 1000 | 4d6 |
+| Implanted Fangs (Vampires) | N | Mouth. Implanted canines, 1d6/3 damage | 200 | 3d6 |
+| Sharkgrin Special | N | Mouth. Implanted carbon-glass teeth, 1d6/2 damage | 200 | 3d6 |
+| Poison Vampires | N | Mouth. 1d6/3 damage plus poison/drug injector | 400 | 3d6 |
+| Retractable Vampires / Sprign | MA | Mouth. 1d6/3 to 1d6+ bite damage. Retractable | 500 | 2d6+2 |
+| Extended Canines | CR | Mouth. 1d6/2+1 damage. Retractable | 1000 | 3d6+2 |
+| Extended Sharkgrin Special | CR | Mouth. 1d6+ damage. Retractable | 1400 | 4d6 |
+| Spitting Cobra | N | Vampires that spit chemicals 6ft, as airgun pellet | 400 | 4d6 |
+| Retractable Spitting Cobra | MA | Retractable vampires that spit chemicals 6ft | 700 | 4d6 |
+| New Teeth | M | Ceramic teeth: MEL -1 NA C1-2 NA 1 VR touch | 200 | 1d6/2 |
+| PowerJaw | N | Myomer jaw muscles, +2 to bite damage | 100 | 1–2 |
+
+---
+
+# Cyberjaws
+
+| Cyberware | Surg. | Description | Cost | H.L. |
+|-----------|------|-------------|------|------|
+| Mandibles | MA | 2d6 damage bite, looks normal except for eating | 1200 | 5d6 |
+| Cyberjaw – K9 | MA | SP 6 metal jaw. 1d6+ bite damage | 2750 | 3d6+2 |
+| Cyberjaw – Conga | MA | SP 6 metal jaw. 1d6+ bite damage | 2770 | 3d6+2 |
+| Cyberjaw – Needle | MA | SP 6 metal jaw. 1d6+ bite damage | 2800 | 3d6+2 |
+| Cyberjaw – Pit Bull | MA | SP 6 metal jaw. 2d6 bite damage | 2870 | 3d6+2 |
+| Cyberjaw – Shark Maw | MA | SP 6 metal jaw. 2d6+ bite damage | 2930 | 3d6+2 |
+| Cyberjaw – T-Rex | MA | SP 6 metal jaw. 3d6+ bite damage | 3000 | 3d6+2 |
+| RealSkinned Cyberjaw | MA | Jaw looks real, 70% effective (Diff Awareness) | 0 | -1d6 |
+
+---
+
+# Cyberoptics
+
+> [!info] Cyberoptic Systems
+> Cyberoptics replace or augment the human eye, providing enhanced visual capabilities and modular upgrade slots.
+
+| Cyberware | Surg. | Description | Cost | H.L. |
+|-----------|------|-------------|------|------|
+| Basic Eye Module | MA | Basic eye module (4 option spaces per eye) | 500 | 2d6 |
+| Remote Eye | MA | 1 space left, 100m transmission | 1500 | 3d6 |
+| Optical Interface | MA | Interface plug behind optic | 600 | 2d6+2 |
+| Bug Eye | MA | Can hold 6 options | 750 | 3d6 |
+| Third Eye | CR | -1 ATTR/eye, max 2 extra | 750 | 3d6+ |
+| Revelation Cyberoptic | MA | Early model. +1 Notice, ATTR -1,-2 | 700 | 3d6+1 |
+| Soviet Cyberoptic | N | 1 option space per eye, 50% chance -1 ATTR | 100 | 2–3d6 |
+| Kiroshi MonoVision | MA | 6 option spaces, +1 Notice, +Initiative vs Ambush | 650 | 3d6 |
+| Vacuum Proof Optic | MA | 4 option spaces, used with Vac Weave | 600 | 2d6 |
+| Quick Change Optic | MA | Removable, but only 3 options | 1000 | 2d6+3 |
+
+---
+
+# Cyberoptic Options
+
+> [!tip] Cyberoptic Options
+> These upgrades occupy **option slots within cyberoptic modules**.  
+> Each option takes **1 space unless otherwise noted**.
+
+| Option | Surg. | Description | Cost | H.L. |
+|-------|------|-------------|------|------|
+| Color Shift | N | Allows color changes, special fashion effects | 300 | .5 |
+| Image Enhancement | N | +2 Awareness when using visual search | 300 | 1 |
+| Targeting Scope | N | +1 on all Smartgun attacks | 400 | 2 |
+| Times Square Marquee | N | LED screen in vision field for messages | 300 | 1 |
+| Teleoptics | N | Telescope ability to 20x | 150 | .5 |
+| Micro-optics | N | Microscope | 150 | .5 |
+| Anti-Dazzle | N | Immune to flashes, laser blinding | 200 | .5 |
+| Low Lite | N | See in dim light, almost total darkness | 200 | .5 |
+| Thermograph Sensor | N | Heat patterns, temperature readings | 200 | 1 |
+| Infrared | N | See in total darkness, using heat emissions | 200 | 1 |
+| Ultraviolet | N | See in darkness, using UV flash | 200 | 1 |
+| MicroVideo Optic | N | Video record up to 20 min (2 spaces) | 300 | .5 |
+| Digital Camera | N | Shoots up to 20 images (2 spaces) | 300 | .5 |
+| Dartgun | N | Holds 1 poison dart. Range 1m (3 spaces) | 200 | 2 |
+| Dodgeball | N | +1 to Hand to Hand skill after 30 secs | 440 | 1 |
+| Tear Gas Sprayer | N | 1m range (2 spaces) | 200 | 2 |
+| Times Square Plug | N | Allows visual information retrieval (3 spaces) | 500 | 2 |
+| Video Cam/Transmitter | N | Live feed 1m range (4 spaces) | 330 | 1 |
+| Video Imager | N | Receives video images (2 spaces) | 350 | 2 |
+| Time/Day Display | N | Time and date, no spaces | 100 | 1 |
+| Cyberoptic Compass | N | 1 space, 2 for logocompass | 300 | 1 |
+| Interferometry System | M | 10x vision all the time | 400 | 1 |
+| Laser-Comm Optic | M | 500m range, can be blind. Code chips are 175eb | 425 | 2 |
+| Verbal Eyes (Basic) | M | Displays images, -1 space | 750 | 3 |
+| Verbal Eyes (Vid Image) | M | 3 spaces, +Video Imager | 1000 | 5 |
+| Verbal Eyes (Custom Image) | M | 4 spaces, Times²+ | 1200 | 5 |
+| Double-Slit Pupils | N | Allows clear vision through air-water boundary | 20 | 0.5 |
+| Hydrosubslim Aquagogs | N | Synthetic nictitating membranes, good to 200m | 200 | 1 |
+| Live Feed Optic | N | 2m range | 1000 | 1 |
+| Optical Capacitor Laser | N | 2d6 damage, 1 shot, .5m range (3 spaces) | 800 | 3 |
+
+---
+
+# Cyberaudio
+
+> [!info] Cyberaudio Systems
+> Cyberaudio implants replace or augment the human ear, providing enhanced hearing and communication capabilities.
+
+| Cyberware | Surg. | Description | Cost | H.L. |
+|-----------|------|-------------|------|------|
+| Basic Hearing Module | M | Basic hearing module (6 option spaces) | 500 | 2d6 |
+| Spectrum Cyberaudio | MA | Early model. -1 balance, +1/+2 Awareness | 650+ | 3d6+2 |
+| Soviet Cyberaudio | M | Only 2 option spaces, 50% chance of -1 ATTR | 100 | 2–3d6 |
+
+---
+
+# Cyberaudio Options
+
+> [!tip] Cyberaudio Options  
+> These upgrades occupy **audio option slots** within cyberaudio modules.
+
+| Option | Surg. | Description | Cost | H.L. |
+|------|------|-------------|------|------|
+| Amplified Hearing | N | +1 Awareness using auditory cues (SWx2) | 200 | 1 |
+| Radio Link | N | Radio communication up to 1 mile | 100 | 1 |
+| Phone Splice | N | Full cellular communication (large city only) | 150 | 3m |
+| Scrambler | N | Cannot understand without a descrambler | 100 | .5 |
+| Bug Detector | N | Detects taps, bugs up to 60% effective | 100 | .5 |
+| Voice Stress Analyzer | N | +2 to Human Perception, Interrogation skills | 200 | 1 |
+| Sound Editing | N | +2 Awareness to overhear specific conversations | 150 | .5 |
+| Enhanced Hearing Range | N | Ability to hear super & subsonic ranges | 150 | 2 |
+| Wearman | N | Stereo music system | 100 | .5 |
+| Radar Detector | N | Beeps if radar encountered, fixes source (40%) | 150 | .5 |
+| Homing Tracer | N | Can follow tracer up to 1km distant | 200 | .5 |
+| Tight Beam Radio Link | N | Allows untappable radio com within line of sight | 200 | 1 |
+| Wide Band Radio Scanner | N | Picks up transmissions in all bands | 100 | 2 |
+| Micro-recorder Link | N | Transmits to recorder in body or via plugs | 100 | .5 |
+| Digital Recording Link | N | Transmits sounds to digital recorder | 100 | .5 |
+| Level Damper | N | Automatic noise compensation -25% from SW | 300 | .5 |
+| Fax +1000 Alert | N | Alerts user to incoming faxes | 100 | 0 |
+| ShareChecker™ Link | N | Share information using T², screen or audio | 100 | .5 |
+
+---
+
+# Cyberlimbs
+
+> [!warning] Cyberlimbs  
+> Cyberlimbs replace entire limbs with mechanical prosthetics.  
+> They often include **internal option slots, armor, and enhanced strength capabilities**.
+
+| Cyberlimb | Surg. | Description | Cost | H.L. |
+|-----------|------|-------------|------|------|
+| Standard Cyberarm | CR | 20/30 SDP, 4 option spaces, 1d6 punch | 3000 | 2d6 |
+| Standard Cyberleg | CR | 20/30 SDP, 3 option spaces, 2d6 kick | 2000 | 2d6 |
+| Artificial Shoulder Mount | CR | Mount up to 2 extra arms. 25 SDP | 1500 | 2d6 |
+| Orbital Crystal Cyberarm | CR | 50/60 SDP, 4 option spaces, 1d6 punch | 7000 | 2d6 |
+| Orbital Crystal Cyberleg | CR | 50/60 SDP, 3 option spaces, 2d6 kick | 6000 | 2d6 |
+| Independent Cyberhand | MA | 1d10 crush, 7/10 SDP, 1 option space | 750 | 1d6 |
+| Romanova Cyberlegs | CRx2 | +1 to Wardrobe & Style | 0 | 4d6 |
+| SuperSized Arm | CR | SDP 30/40, -2 REF, +1 EV, 2d10/3d6 punch | 4000+ | 2d6 |
+| Enable Cyberarm | CR | Early model. 23/33 SDP, REF -1 | 500 | 2d6+2 |
+| Enable Cyberleg | CR | Early model. 28/35 SDP, REF -1, MA -2 | 700 | 3d6+3 |
+| Soviet Cyberleg | CR | SDP 30/40, 3d10 kick, 5% failure | 875 | 2–3d6 |
+| Soviet Cyberarm | CR | SDP 30/40, 3d6 punch, 2d10 crush, 5% failure | 669 | 2–3d6 |
+| Corvette Cyberlegs (basic) | CR | +3 MA, +1 on movement rolls | 4500 | 3d6 |
+| Corvette Cyberlegs (advanced) | CRM | +8 MA, +2 on movement rolls | 5000/500 | 3d6+4 |
+| Speeding Bullet Legs | CRx2 | MA 16, leap 10m, 1 option space left per leg | 4500 | 4d6 |
+| SovWear Cyberarm | CR | 30/40 SDP, 3d6/6d6 damage, 3 spaces, UR | 1000 | 2d6 |
+| SovWear Cyberleg | CR | 30/40 SDP, 6d6 kick, 2 spaces, UR | 1500 | 2d6 |
+| Biomechanical Arm | CR | 10/15 SDP, 1d6 punch, 1d6 crush, 1/2 damage normal | NA | 1d6 |
+| Cyber Bar Leg | CR | Built in wet bar | 3000 | 2d6 |
+| Tentacle Arm | CR | 8x70 cm tentacles, SDP 5 each. SDP 20 shoulder | 4000 | 5d6 |
+| Extendable Tentacle Arm | CR | Same as above plus can extend to 150 cm | 6000 | 5d6 |
+
+---
+
+# Cyberlimb Options
+
+> [!tip] Cyberlimb Options  
+> These upgrades occupy **internal cyberlimb option slots**.
+
+| Option | Surg. | Description | Cost | H.L. |
+|------|------|-------------|------|------|
+| Quick Change Mount | N | Allows 1 turn changing of cyberlimb | 200 | 2 |
+| Hydraulic Rams | N | SDP 30/40, 3x normal damage (1 space) | 200 | 3 |
+| Thickened Myomar | N | SDP 25/35, 2x normal damage (1 space) | 250 | 2 |
+| Reinforced Joints | N | SDP +5 | 200 | 1 |
+| Microwave / EMP Shielding | N | Limb not as susceptible to EMP, microwaves | 300 | 1 |
+| Plastic Covering | N | In colors, transparent, etc | 1–200 | 1 |
+| RealSkin | N | Limb looks real. 70% effective (Diff Awareness) | 200 | -1d6/2 |
+| Superchrome | N | High gloss metallic covering | 200 | 3 |
+| Armor | N | Armors cyberlimb to SP 20 | 200 | 2 |
+| Leg Boosters | N | +3m leaps (2 spaces) | 500 | 1d6 |
+| Fleshweave | M | Takes 1 option space. +50% repair costs | 200+20% | 0 |
+| Extra Twist Joint Addition | N | +2 Athletic type rolls, Mart Grapples & Escapes | 30%, +10% | 1 |
+| Double-Jointed | N | +1 Grapple, Holds, Chokes, Escapes (5 spaces) | 1000 | 1d6/2 |
+| Locking Joints | N | +5 Strength Feat to move (5 spaces) | 100 | 0.5 |
+| 360 Rotating Joints | N | +1 to Escaping, some TECH repairs (5 spaces) | 120 | 2 |
+| Extending Leg Units | N | Alters height -1 to +3 ft. +1 MA (2 spaces) | 400 | 4 |
+| Spiked Limb Cover | N | +1d6 grapple / holding damage | 200 | 2 |
+| Tentacle Arm Sheath | N | Hides tentacles, resembles cyberarm (2 openings) | 800 | 0 |
+
+---
+
+# Cyberhands
+
+> [!info] Cyberhands  
+> These attachments mount to cyberarms and provide tools, weapons, or utility functions.
+
+| Cyberhand | Surg. | Description | Cost | H.L. |
+|-----------|------|-------------|------|------|
+| Standard Hand | N | Resembles normal hand | 150 | 0 |
+| RipperHand | N | Standard hand with Rippers. 1d6+3 damage | 600 | 2d6 |
+| HammerHand | N | Hydraulic ram fist does 1d10 damage | 600 | 2d6 |
+| BuzzHand | N | Electrocawsaw. 2d6+2 damage | 600 | 2d6 |
+| ToolHand | N | Fingers contain screwdriver, wrench, drill, etc | 200 | 2 |
+| Grapple Hand | N | Extends rocket-propelled grapple, 30m line | 350 | 3 |
+| Extension Hand | N | Hand extends up to 1m | 350 | 2 |
+| Spike Hand | N | Palm spike. 1d6+3 AP damage | 500 | 2 |
+| Modular Hand | N | Choose any 4 modular tools | 600 | 2 |
+| Mace Hand | N | 2d6+1 / 1d10-2 damage, 1m range | 300 | 3 |
+| Cyberhand Coverings | N | Same range as listed for cyberlimbs | 100 | 1/2 usual |
+| Custom Cyberhand | N | Varies | 900 | Varies |
+| Web Hand | N | +2 swim, +1–2m/turn, 1d6 damage | 250 | 2 |
+| ICE Venom Hand | N | 4 needles, slash for 1d6-1 damage | 600 | 2d6 |
+| Medical Modular Cyberhand | N/MA | Mono scalpel, air-hypo, stapler, probe, etc | 975 | 1d6/2 |
+| Dainaman Grapplefist | N | 50m cable, 2 spaces, 2d6+2 crush | 1050 | 2 |
+| Mini-Camera in Palm | N | It's a camera | 1000 | 1d6 |
+| Surveillance Hand | N | Remote cyberhand | 1500 | 2 |
+| CyberMaw Hand | N/MA | 2–3" maw doing 1d6 damage/turn, -3 WA | 1200 | 3d6 |
+| CyberMaw Drool / Vomit Hand | N/MA | As above, with 10 shot Power Squirt | 1600 | 4d6 |
+| CyberMaw & Tongue Hand | N/MA | As CyberMaw, but with CP2020 Cybersnake | 2200 | 5d6 |
+| CyberMaw & Tongue Hand+ | N/MA | As above, needs cyberarm, as with Cybersnake | 3700 | 6d6 |
+| DrillHand | N | 3d6 damage, 1/2 hard, 1/4 soft SP | 700 | 3 |
+| Travel Hand | N | 4 options in fingers | 500 | 2 |
+| Gouge Master | N | 2d6+3 AP, 2d6*, 2 spaces, 20m cable and reel | 550 | 2d6 |
+| Gouge Master Winch | N | High speed winch for reeling cable | 100 | 2 |
+| Lightning Fist | N | Electricity. Stun -1, or 2d6+1 damage | 900 | 2d6 |
+
+---
+
+# Cyberfeet
+
+> [!info] Cyberfeet  
+> These attachments connect to **cyberlegs** and provide mobility upgrades, tools, or concealed weapons.
+
+| Cyberware | Surg. | Description | Cost | H.L. |
+|-----------|------|-------------|------|------|
+| Standard Foot | N | Resembles normal foot | 200 | 0 |
+| Talon Foot | N | Extends toe blades. 1d6 damage | 600 | 2d6 |
+| Tool Foot | N | Toes contain screwdriver, wrench, drill, etc | 300 | 2 |
+| Web Foot | N | Doubles swimming speed, +3 to Swim skill | 500 | 2 |
+| Grip Foot | N | For better gripping strength. +2 to Climb | 500 | 2 |
+| Spike Heel Foot | N | Heel spike for lethal kicks. 2d6 AP damage | 500 | 2d6 |
+| Skate Foot | N | Allows MA 20. Use as cross skate | 400 | 1d6 |
+| Anchoring Cyberfeet | N | Anchors user to ground. 4 uses (2 spaces each) | 400 | 3 |
+| Catspaw Stealth Foot | N | +1 to Stealth skill | 150 | 1 |
+
+---
+
+# Finger Attachments
+
+> [!tip] Finger Attachments  
+> These devices attach to **cyberhands or cyberfingers** and provide tools, weapons, or sensory equipment.
+
+| Attachment | Surg. | Description | Cost | H.L. |
+|-----------|------|-------------|------|------|
+| Dartgun | N | 3m range | 100 | 2 |
+| Lockpick | N | Pick for mechanical locks | 50 | 0.5 |
+| Mini Light | N | 25m beam, batteries 1eb | 25 | 0.5 |
+| Finger Bomb | N | 2d6+3, 3m range | 150 | 4 |
+| Wirecutters / Scissors | N | 1d6/3 damage | 50 | 1 |
+| Mace Sprayer | N | 2 bursts, -4 REF & Notice for 1d6 turns | 150 | 2 |
+| Quick Change Mount | N | Click and turn mount, mod ~20eb | 150+ | 1 |
+| VidCam (+1 option) | N | IR 200eb, Teleoptic 225eb, Lowlite 100eb | 400+ | 2 |
+| Self-Propelled Grenade | N | 7m range, 2d6 over 2m (25eb) | 200 | 2 |
+| Air Hypo | N | 4 doses, air containers 3eb | 200 | 1 |
+| Tracking Device | N | 3m range, 2 bugs, 3km transmitter | 300 | 0.5 |
+| Lighter | N | 2 hours of fuel, 1eb refill | 25 | 0.5 |
+| Probe Link | N | Interface link | 150 | 0.5 |
+| Parabolic Microphone | N | 20x microphone for full arms | 350 | 2 |
+| Flasher | N | Diff REF to blind target for 1 min (25eb) | 250 | 1 |
+| IR / UV Flashlight | N | 10m range | 200 | 1 |
+| Flare | N | 150m altitude, 25m diameter (15eb) | 200 | 2 |
+| Storage Compartment | N | Small space | 75 | 0.5 |
+| Laser Pointer | N | 20m range | 150 | 0.5 |
+| Flesh Mount | N | Allows cyberfingers to be mounted on meat hand | 100 | 1 |
+| One-Shot Special | N | P-2 P E 1d6 (5mm) 1 ST 20m | 250 | 2 |
+| Ballpoint Finger | N | Leakproof pen | 25 | 0.5 |
+| Cyberfinger Oxygen Tank | N | 30 seconds of oxygen | 250 | 0.5 |
+| Screwdriver | N | Powered screwdriver finger | 50 | 0.5 |
+| Wrench | N | Adjustable wrench finger | 50 | 0.5 |
+| Drill | N | Adjustable drill finger | 50 | 0.5 |
+| Soldering Iron | N | Electric soldering iron finger | 50 | 0.5 |
+| Socket Wrench | N | Adjustable powered socket wrench finger | 50 | 0.5 |
+| Tentacle Finger | N | 10cm long tentacle | 500 | 1 |
+| Extendable Tentacle | N | 30cm long tentacle, requires cyberhand | 750 | 1 |
+
+---
 
