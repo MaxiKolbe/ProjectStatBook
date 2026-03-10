@@ -13,6 +13,7 @@ These pages serve as a **character reference archive**, documenting major indivi
 The Cyberpunk 2021 character archive highlights key figures who play meaningful roles in the narrative world. These characters range from operatives and mercenaries to influential figures connected to the city's power structures.
 
 Character statistics and skills are **loosely based on the tabletop RPG *Cyberpunk 2020*** by R. Talsorian Games.  
+
 The system provides a framework for representing character abilities, but it is used primarily as a **narrative reference rather than strict gameplay mechanics**.
 
 ## Current Characters

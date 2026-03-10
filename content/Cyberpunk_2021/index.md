@@ -8,7 +8,8 @@ This section contains character sheets, factions, items, and worldbuilding relat
 
 Cyberpunk 2021 is an ongoing story archive and statbook built around characters, gear, and interlinked world elements.
 
-Character statistics and skills are **loosely based on the tabletop RPG *Cyberpunk 2020*** by R. Talsorian Games.  
+Character statistics and skills are **loosely based on the tabletop RPG *Cyberpunk 2020*** by R. Talsorian Games. 
+ 
 The system provides a framework for representing character abilities, but it is used primarily as a **narrative reference rather than strict gameplay mechanics**.
 
 - [Mechanics](./mechanics)
