@@ -1,7 +1,5 @@
 ---
 title: Remi Cage
-tags:
-  - cyberpunk
 ---
 
 # Remi “White” Cage
