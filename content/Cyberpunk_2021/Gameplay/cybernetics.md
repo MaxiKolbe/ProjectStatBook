@@ -738,3 +738,570 @@ title: Cybernetics
 
 ---
 
+# Built-In Systems
+
+> [!info] Built-In Systems  
+> These components are **integrated directly into cyberlimbs or internal systems**, often requiring option slots.
+
+| System | Surg. | Description | Cost | H.L. |
+|--------|------|-------------|------|------|
+| Cybermodem | N | Built in cyberdeck | 3000 | 1 |
+| Cellular Cybermodem | N | Built in cellular deck | 5000 | 1 |
+| Digital Recorder | N | Digital chip recorder. Download or erase chip | 300 | 1 |
+| Storage Space | N | 2"x6" storage space. Can be locked | 50 | 0.5 |
+| MiniCam | N | Pop up Digital Camera (20 shots) | 200 | 2 |
+| MiniVid | N | Pop up Mini video (30 minutes) | 400 | 2 |
+
+---
+
+# Utility Cyberware
+
+> [!tip] General Cyberware  
+> These systems provide **utility, surveillance, or support functions** rather than direct combat power.
+
+| Cyberware | Surg. | Description | Cost | H.L. |
+|-----------|------|-------------|------|------|
+| Hidden Holster | N | Weapon size based on Body Type | 100 | 1 |
+| LCD Screen Readout | N | Can be linked to any output device | 200 | 1 |
+| Techscanner | N | 60% effective, -3 to repair difficulty | 400 | 3 |
+| Cutting Torch | N | Can cut through SP20 | 100 | 1d6/2+1 |
+| Icer | N | 2m range | 200 | 1d6/2 |
+| Limb Link | N | Turns pop-up gun into smartgun +1 | 100 | 1 |
+| Magnetic Hands/Feet | N | For easier zero-G movement | 60 | 0 |
+| Watch-Man | N | Miniature TV | 180 | 1 |
+| Winch | N | 15m cable, pulls up to 1 ton | 500 | 1d6+3 |
+| Quickdraw Holster | N | P class conc. +2 initiative to fastdraw | 200 | 0 |
+| Laser Mike | N | 60m range, Human Perception -5 | 400 | 1d6+2 |
+| Radio/Cellular Boosterstation | N | Runs for 160 hrs, diff 25 encryption (2 spaces) | 2650 | 2 |
+| ECM Emitter | N | Electronic counter-measures emitter (2 spaces) | 2950 | 2 |
+| Cyberpillow | N | A pillow in an arm | 80 | 0.5 |
+| Smartplate Link | N | Smartgun = 3x cost | 300 | 2 |
+| Microweld Bracer | N | +1 to TECH rolls | 800 | 3 |
+| “D-Tek” Targeting Network | N | Negates movement firing modifiers | 1300 | 1d6+3 |
+| ULF Antenna | N | 100m real antenna for transceiver | 20 | 1 |
+| Cyberlimb Light | N | Light built into palm, 3m range | 90 | 0.5 |
+
+---
+
+# Cyberweapons
+
+> [!warning] Cyberweapons  
+> These are **built-in weapon systems**, typically installed into cyberlimbs and requiring option slots.
+
+| Weapon | Surg. | Description | Cost | H.L. |
+|--------|------|-------------|------|------|
+| Grenade Launcher | N | Carries 2 grenades of any type | 500 | 2d6 |
+| Micro-Missile Launcher | N | Contains 4 mini-missiles, 4d6 damage each | 900 | 2d6 |
+| Popup Gun | N | Gun size based on Body Type | 2–800 | 2d6 |
+| Flame Thrower | N | Range 1m, 4 shots, Damage is 2d6 then 1d6/2 | 600 | 2d6 |
+| Weapon Mount & Link | N | Mounting plate plus neural link for 1 weapon | 100 | 3 |
+| 2 Shot Capacitor Laser | N | Shoulder mounted. 3+ → 3d6 2 1 10m | 800 | 2d6 |
+| Derringer | N | Pistol -1, 1d6 (5mm), 2 ST, 50m | 20 | 1d6 |
+| Flashbulb | N | 4m x 6m | 250 | 1d6/2 |
+| Gas Jet | N | 6 shots, range 2m | 275 | 1d6+3 |
+| TazerGrip | N | Effects equal to tazer, Stun -2 | 180 | 2d6+2 |
+| Whip | N | 1d6/2 or choke | 475 | 2d6 |
+| Popup Sliver Gun | N | P 3+ → 2d6x1d6/2 7 UR 40m | 550 | 1d6+2 |
+| Tri-Dart Launcher | N | 3 darts, 1d6/2 damage, 1/3 SP | 300 | 1d6/2 |
+| Retractable Monoblade | N | 2d6+3 damage | 800 | 1d6+2 |
+| Survival Blade | N | 1d6+3 damage | 500 | 1 |
+| ChainRipp | N | 3d6 AP | 1250 | 2d6+4 |
+| Blitzkrieg Arc-Thrower | N | EX 0 R 3d6 (1/2 R 1/2 S) 4 1 ST 10m | 1050 | 2d6 |
+| BigRipp | N | Carbon-glass blade. 2d6, 1/2 SP (break 1–3) | 850 | 3d6+1 |
+| High Five / Palm Bomb | N | 20–30 ft. 4d6+2 for 12ga round, 1 shot | 355 | 1d6+3 |
+| Pop-Up Hand Crossbow | N | S2 JE 1d6+2, VR 25m (3 spaces) | 300 | 2d6 |
+| Strobe | N | Same as implant version (0 spaces) | 150 | 1.5 |
+| Micro-torpedo Launcher | N | Underwater mini-missiles, 4d6 damage | 900 | 2d6 |
+
+# Linear Frames
+
+> [!warning] Linear Frames (Exoskeletons)  
+> External or internal **strength-amplifying frames** that massively boost physical power.
+
+| Frame | Surg. | Description | Cost | H.L. |
+|-------|------|-------------|------|------|
+| Sigma | MA | STR 12, +4 Damage mod | 6000 | 2d6 |
+| Beta | MA | STR 14, +6 Damage mod | 8000 | 2d6 |
+| Omega | MA | STR 16, +8 Damage mod | 10,000 | 3d6 |
+| GP Exoskeleton (A) | MA | STR 18, SDP 15, SP 6, MA 4, REF 5 | 12,000 | 4d6 |
+| GP Exoskeleton (B) | MA | STR 21, SDP 20, SP 8, MA 4, REF 5 | 15,000 | 6d6 |
+| Underwater Gamma | MA | STR 12/10 | 10,000 | 2d6 |
+| Underwater Delta | MA | STR 14/12 | 12,000 | 2d6 |
+
+---
+
+# Underwater Systems
+
+| Cyberware | Surg. | Description | Cost | H.L. |
+|-----------|------|-------------|------|------|
+| Underwater Pi | MA | STR 16/14 | 14,000 | 3d6 |
+
+---
+
+# Body Plating (Exoarmor)
+
+> [!info] Body Plating  
+> External or implanted armor systems that reinforce specific body areas or the entire body.
+
+| Armor | Surg. | Description | Cost | H.L. |
+|-------|------|-------------|------|------|
+| Cowl | MA | Skullcap, covers head in SP 25 | 200 | 1d6 |
+| Faceplate | CR | Protective facemask, SP 25 | 400 | 4d6 |
+| Torso Plate | MA | Torso protection SP 25, -3 REF | 2000 | 3d6 |
+| Front Optic Mount | MA | Allows up to 5 optics to be mounted, -1 ATTR | 1000 | 4d6 |
+| Sense Ext. (“Rabbit Ears”) | M | Head-mounted extensions for audio/optics | 500 | 3d6 |
+| Total Body Plating | CRx2 | SP 20, REF -3, ATTR/2, -1 Stealth | 6800 | 8d6 |
+| Cyberfacial Remounts | MA/CR | SP 6–18, ATTR -1,-2, 15–50% protect | 150–350 | 1d6–3d6 |
+| Spyke! Furniture | N | 10SP, +10SDP, 1d3+1 to 1d6+1 AP | 400–600 | 1–3 |
+
+---
+
+# Full Borg Conversions
+
+> [!danger] Full Body Conversion  
+> Complete replacement of the human body with a **cybernetic chassis**.  
+> Extremely powerful—but comes with massive Humanity loss.
+
+| Model | Surg. | Description | Cost | H.L. |
+|-------|------|-------------|------|------|
+| Alpha Class | CRx2 | REF 10, MA 10, BOD 12, SP 25, SDP 20/30/40 | 40,000 | 1d6 |
+| Aquarius (Sub-Marine) | CRx2 | REF 10, MA 10, BOD 15, SP 25, SDP 20/30/40 | 50,000 | 18d6+2 |
+| Copernicus (Space-Use) | CRx2 | REF 11, MA 10, BOD 12, SP 25, SDP 20/30/40 | 60,000 | 19d6 |
+| Eclipse (Covert Ops) | CRx2 | REF 13, MA 13, BOD 12, SP 25, SDP 20/30/40 | 65,000 | 21d6+3 |
+| Enforcer (Security) | CRx2 | REF 12, MA 15, BOD 12, SP 30, SDP 25/35/45 | 55,000 | 21d6+2 |
+| Brimstone (Fire-Fighter) | CRx2 | REF 11, MA 10, BOD 14, SP 30, SDP 20/30/40 | 47,000 | 19d6 |
+| Gemini (Humanoid) | CRx2 | REF 10, MA 10, BOD 12, SP 25, SDP 20/30/40 | 55,000 | 16d6+2 |
+| Wingman (Pilot) | CRx2 | REF 15, MA 10, BOD 12, SP 25, SDP 20/30/40 | 54,000 | 20d6 |
+| Samson (Industrial) | CRx2 | REF 10, MA 10, BOD 18, SP 25, SDP 20/30/40 | 50,000 | 20d6+1 |
+| Dragoon (Military) | CRx2 | REF 15, MA 25, BOD 20, SP 40, SDP 40/50/60 | 120,000 | 42d6+3 |
+| “Sheol” Hazardous Ops | CRx2 | REF 10, MA 10, BOD 18, SP 30, SDP 20/30/40 | 50,000 | 18d6+8 |
+| MD Tech “Kildare” Medical | CRx2 | REF 10, MA 10, BOD 12, SP 25, SDP 20/30/40 | 46,000 | 19d6 |
+| Arasaka “Burroughs” Ops | CRx2 | REF 10, MA 10, BOD 12, SP 35, SDP 20/30/40 | 42,000 | 16d6+4 |
+| Militech “Spyder” Recon | CRx2 | REF 12, MA 20, BOD 12, SP 30, SDP 20/30/40 | 118,105 | 39d6 |
+| Wiseman Cyberspace Com | CRx2 | REF 14, MA 10, BOD 12, SP 25, SDP 20/30/40 | 91,381 | 23d6+3 |
+| Arasaka “Daioni” PA Convert | CRx2 | REF 17, MA 20, BOD 52, SP 80, +6 Initiative | 810,000 | 16d6+30 |
+
+---
+
+# Full Borg Options
+
+> [!tip] Full Borg Upgrades  
+> Additional enhancements specifically for **full body conversions**.
+
+| Option | Surg. | Description | Cost | H.L. |
+|--------|------|-------------|------|------|
+| Stylization | N | Customization, possible bonuses to some skills | Varies | 0 |
+| Increased SP | N | Max 40 SP, 10–50 lbs weight increase | 2000/+5 | 0 |
+| Increased SDP | N | Max +20 SDP, +55 lbs/+5 SDP | 1500/+5 | 0 |
+| Increased REF | M | Max 15 | 2000/+1 | 2/+1 |
+| Increased MA | M | Max 25 | 1500/+1 | 2/+1 |
+| Increased BODY | M | Max 20 | 1000/+1 | 2/+1 |
+| Shielding | MA | Electronic shielding, 500 rads protection | 2000 | 6 |
+| Quick Change Mounts | N | Rifles (2), Heavy Weapons (3) can be mounted | 200 | 2 |
+| Interchangeable Biopod | CP | Organs can be moved to different FBCs | 20,000 | 18d6 |
+| Longevity Module | MA | Theoretically triples borg’s lifespan | 15,000 | 1 |
+| Eelskin | MA | 1d6 to 2d6+3 damage | 14,000 | 1d6 |
+| Cyber Steroids | 2xCR | BOD x3, +3kg/+1 BOD, runs off power until below | 1500/+1 | 6d6 |
+| Back Mounted Power-unit | N | +5% weight, 10hrs, 200eb recharge | 200 | 0 |
+| Variable Spectrum Light | N | No spaces | 200 | 0.5 |
+| Enhanced Thermograph | N | Advanced thermograph. 1 space | 300 | 1 |
+| Blood IV Supply | N | 4 x 1/4 litre containers. 1 space | 300 | 1 |
+| Reactive Body Plating | MA | Detects laser & smart sights, REF >10 dodge | 6000 | 1d6 |
+| Dummy Facemasks | N | Detachable faceplates | 25–500 | 0 |
+
+---
+
+# Bodysculpting
+
+> [!info] Bodysculpting  
+> Cosmetic and functional surgical modifications that alter appearance or biological traits.
+
+| Upgrade | Surg. | Description | Cost | H.L. |
+|--------|------|-------------|------|------|
+| Appearance Change – Minor | M | Look sort of like you wanted to, Notice 15+ | 1200 | — |
+| Appearance Change – Major | M | Look very much like you wanted, Notice 20+ | 2400 | — |
+| Appearance Change – Expert | M | Look exactly like you wanted, Notice 25+ | 3600 | — |
+| Appearance Change – Top of the Line | MA | Notice 30+ to spot sculpt | 5000 | — |
+| Increased Attractiveness | M | +1 ATTR (max ATTR 10) | 600 | — |
+| Sex Change – Basic | MA | 1 month therapy, 1 week hospital, diff 20 to spot | 4200 | 0–1d6 |
+| Sex Change – Advanced | CR | Each +5 diff doubles time and cost | x2/+5 diff | 0–1d6 |
+| Ability to Bear Children | MA | Includes psychological counselling | +5000 | 0 |
+| Ability to Father Children | MA | Includes psychological counselling | +1000 | 0 |
+
+---
+
+# Exotic Modifications
+
+> [!warning] Exotic Body Mods  
+> Extreme biological alterations that push beyond human norms.
+
+| Modification | Surg. | Description | Cost | H.L. |
+|--------------|------|-------------|------|------|
+| Minor Facial Modification | M | Alterations to eyes, ears, nose, etc | 1000 | 1d6/2 |
+| Major Facial Modification | M | Major alterations to features | 2000 | 1d6 |
+| Muzzle, Short | M | Like a bear’s or tiger’s muzzle | 2000 | 1d6 |
+| Muzzle, Long | MA | Like a dog’s or horse’s muzzle | 2500 | 2d6 |
+| Mandibles, Extended | MA | Semi-prehensile grasping jaws, 1d6 damage | 4000 | 3d6 |
+| Natural Fangs | N | 1d6 bite damage | 500 | 0 |
+| Natural Claws | N | -3 to manipulation rolls, 1d6 damage | 1000 | 1d6+1 |
+| Retractable Claws | M | 1d6 damage | 1000 | 1d6 |
+| Scratchers | N | Low HL due to implantation in hospital | 500 | 1d6 |
+| Rippers | N | Low HL due to implantation in hospital | 750 | 2d6 |
+| Short Tail | M | Bunny tail, etc | 250 | 2 |
+| Tail | MA | Mobile but weak, exerts about 3 lbs of force | 1500 | 3d6 |
+| Combat Tail | MA | Heavily muscled, 1d6+Damage Mod | 2500 | 3d6 |
+| Stinger Tail | MA | Poison injecting stinger, 1d6+Mod + drug/toxin | 3000 | 3d6 |
+| Digitigrade Legs | CR | 3 joint legs, +1 MA with tail, -2 MA without | 4000 | 6d6 |
+| Fur / Scales / Skin Change | N | 10% chance of cancer | 10,000 | 3d6 |
+| Heavy Scales | N | SP 12, 10% chance of cancer | 12,000 | 3d6 |
+| Exoskeleton | CR | SP 18, MA & REF -2, 10% chance of cancer | 20,000 | 4d6 |
+| Frame Alteration | MA | 25% size change from actual body size | 8000 | 2d6 |
+| Muscle Pouch | MA | Muscles on lower back for hidden tail/tentacles | 500 | 1d6 |
+| Tentacles | MA | Weak, can be hidden in pouch, -1 MA in water | 1500 | 2d6 |
+| Stinger Tentacles | MA | Bio-toxin (Death/4d6), -1 MA in water | 3000 | 3d6 |
+| Black Ink | MA | Ink cloud in water, can also be toxic | 1200 | 3d6 |
+
+---
+
+# Exotic Packages
+
+> [!tip] Prebuilt Exotic Packages  
+> Bundled modification sets that transform the user into themed humanoid variants.
+
+| Package | Surg. | Description | Cost | H.L. |
+|---------|------|-------------|------|------|
+| KatNip – Feline | MA+ | Slit eyes, pointed ears, tail, synthskin, scratchers | 3400 | 4d6 |
+| Rodent | M+ | Enlarged ears and eyes, button nose, synthskin | 1400 | 1d6 |
+| Rabbit | Mx2 | Bunny ears & tail, button nose, whiskers | 1250 | 1d6 |
+| Reptile | M+ | No ears, long tongue, olfactory, fangs, synthskin | 2000 | 4d6 |
+| Elf | M | Pointed ears, thin face, upturned eyebrows | 1000 | 1d6/2 |
+| Dwarf / Halfling | CR+ | Shorter & stockier frame (MA -2), broader features | 9000 | 2½d6 |
+| Ork / Goblin | CR+ | Broad features, longer arms, fangs, synthskin | 10,900 | 6d6 |
+| Troll / Ogre | CR+ | Broad features, fangs, taller, grafted muscle, MBL | 12,000 | 7d6 |
+| Fishman | MA+ | Gills, synthskin, webbing, custom contacts | 10,000 | 4½d6 |
+| Zark Nartang Graftable | MA+ | Fangs, wolvers, tail, skinweave, MBL, etc | 12,350 | 12d6+1 |
+| Bear Package | CR+ | Muzzle, fangs, claws, fur, taller, grafted muscle | 24,500 | 13d6 |
+| The Superman | CR+ | Future of humanity via nano and bioware | 19,735 | 13d6 |
+| BigKat | CR+ | Muzzle, fangs, claws, tail, digitigrade legs, fur | 21,000 | 19d6 |
+| Slight Buggy | MA+ | Bug eyes, antenna, scaly synthskin, cyberoptics | 3400 | 6d6 |
+| Franz Kafka Bughouse | CR+ | As above, + mandibles, exoskeleton, scratchers | 35,500 | 15d6 |
+| Merman | CR+ | Gills, skinchange, fisttail, custom contacts, sonar | 18,900 | 10½d6 |
+| Sharkman | MA+ | Gills, sonar, skinweave & change, muzzle, etc | 17,700 | 12d6 |
+
+---
+
+# LupaForm & Specialty Packages
+
+| Package | Surg. | Description | Cost | H.L. |
+|---------|------|-------------|------|------|
+| LupaForm Minor Package | M+ | Pointed ears, dog nose & eyes, fangs, synthskin | 1900 | 3½d6 |
+| LupaForm Major Package | CR+ | As above, + muzzle, tail, digitigrade legs, fur | 10,000 | 15d6 |
+| Humanisaurus Rex – Dragon | MA+ | Short muzzle, fangs, tail, scales | 16,000 | 9d6 |
+| Playbeing Addition | MA+ | Increased ATT, tactile boost, behavior chip | +3000 | 3½d6 |
+
+---
+
+# Bodybank Parts
+
+> [!info] Bodybank  
+> Replacement biological parts—often used for **recovery, black market trade, or emergency surgery**.
+
+| Part | Surg. | Description | Cost | H.L. |
+|------|------|-------------|------|------|
+| Arm | CR | Roll 1d10: 1–3 unavailable, 4–5 minor problem | 1000 | — |
+| Leg | CR | Same as above | 1200 | — |
+| Eyes, Ears | MA | Same as above | 1000 | — |
+| Heart, Lung | MA | Same as above | 1400 | — |
+| Liver, Kidney | MA | Same as above | 400 | — |
+| Other Organs | MA | Same as above | 400–600 | — |
+| Limb/Organ Storage | — | 20% chance of being sold before reclaim | 100/month | — |
+| Limb/Organ Storage (secure) | — | 5% chance of being sold | 200/month | — |
+| Vat Grown Limb/Organ | CR/MA | Matches genotype, takes time to grow | x4 cost | — |
+
+---
+
+# Modular Wear (External Systems)
+
+> [!tip] Modular Wear  
+> Detachable external cyberware systems—less invasive than full implants.
+
+| Module | Surg. | Description | Cost | H.L. |
+|--------|------|-------------|------|------|
+| Modular Arm | CR | 25 SDP, 17 SP, 2 option spaces, 1d6 punch | 4000 | 1d6+3 |
+| Modular Leg | CR | 30 SDP, 20 SP, 1 option space, 2d6 kick | 2200 | 1d6+3 |
+| Modular Torso | CR | 35 SDP, 21 SP, 1 option space | 4000 | 2d6 |
+| Ceramic Jaw & Skull | CR | 12 SP head armor, 1 option space | 1500 | 1d6+1 |
+
+---
+
+# Jaw & Skull Modules
+
+> [!warning] Adaptation Required  
+> Takes **1d6+1 days to fully adapt** after installation.
+
+| Module | Surg. | Description | Cost | H.L. |
+|--------|------|-------------|------|------|
+| Mimicry – Generic | N | Changes bone structure | 1200 | 1d6 |
+| Mimicry – Specific | N | Difficult to detect even casually | 3000+ | 1d6 |
+| Animal Transformation | N | Lower jaw transforms into hybrid animal face | 300 | 1d6+2 |
+| Vampires (Retractable) | N | 1d6/3 damage, same as normal cyberware | 250 | 2d6+2 |
+| Horns | N | Protrude from skull, 1d6/2 damage | 300 | 1d6+2 |
+
+---
+
+# Limb Modules
+
+> [!warning] Limb Reconfiguration  
+> These modules alter limb structure.  
+> **Takes 1d6+1 days to adapt.**
+
+| Module | Surg. | Description | Cost | H.L. |
+|--------|------|-------------|------|------|
+| Scratchers | N | 1d6/2 damage, very difficult to spot | 200 | 1d6+1 |
+| Rippers | N | 2d6 damage, -10 SP to armor during use | 800 | 2d6+2 |
+| Tentacles | N | Splits into 4 tentacles, +5 grapple, -10 SP | 600 | 2d6 |
+| Animal Legs | N | Transforms legs, +3 MA, 14m leaps, 1d6 claw | 400/pair | 2d6 |
+| Squat | N | Reduces limb to half original size, +10 SP | 300/limb | 2d6 |
+| Elongation | N | Stretch limb to 200% size, -15 SP | 300/limb | 2d6 |
+| Hollow | N | Gives apparent BOD 12, -10 SP, +2 intimidation | 100 | 1d6/2 |
+| Inflate | N | Expandable limb structure | 300 | 1d6 |
+| Spikes | N | Covers limb with spikes, +1d6 HTH damage | 400 | 1d6+1 |
+| Tougher | N | +5 SP & SDP, up to 2 levels can be added | 300/level | 4/level |
+| Undetectable | N | Mimics normal bone, can pass Scanway | 500/limb | 0 |
+| Electricity Shielding | N | Compounds shield against electrical attacks | 400/limb | 1d6 |
+| Different Covering | N | Same as Synth-skin, same cancer chance | 400 | 1d6 |
+| Existing Cyberlimb Options | — | Applies standard cyberlimb modifications | normal | normal |
+
+---
+
+# Advanced Cyberware
+
+> [!danger] High-End / Experimental  
+> These systems push beyond standard cyberware into **neural, interface, and experimental territory**.
+
+| Cyberware | Surg. | Description | Cost | H.L. |
+|-----------|------|-------------|------|------|
+| Corymbic Implant | MA | Accepts six “daddies,” allows equipment interfacing | 500 | 2d6 |
+| Behind The Ear Cory Implant | MA | As above, but hidden behind ear | 1000 | 2d6 |
+| Moddy Link | N | Enables cory implant to accept moddy chips | 100 | — |
+| Subdermal Moddy Rack | M | Holds 3 Moddy + 10 Daddy chips, difficult to spot | 200 | 1d6 |
+| Advanced Cortical Implant | CR | Experimental, Eidetic Memory +2, IP cost /2 | 150,000 | 3d6 |
+| Nicitating Membrane | M | Eye protection, +4 to Saves vs eye irritants | 400 | 1d6/2 |
+
+---
+
+# Sensory / Toxin / Combat Mods
+
+| Cyberware | Surg. | Description | Cost | H.L. |
+|-----------|------|-------------|------|------|
+| Anti-Dazzle Nict Membrane | M | Flash protection, +4 vs eye irritants | 500 | 1d6/2 |
+| Poison Sac | MA | Holds 4 doses, refillable with applicator | 500 | 2d6 |
+| Poison Gland | MA | Holds 8 doses, produces new dose every hour | 1200 | 3d6 |
+| Hollow Vampires | N | Linked to poison sac/gland | +50 | 1 |
+| Hollow Claw | N | Connected to poison sac, 1d6/3 damage | 250 | 2d6 |
+| Retractable Needle | M | Finger-mounted poison injector | 650 | 1d6 |
+| Water Refiltration System | MA | Triples survival time without water | 2500 | 1d6/2 |
+| UV Blockers | N | UV/IR resistance | 1500 | 1d6/2 |
+
+---
+
+# Identity & Mount Systems
+
+| Cyberware | Surg. | Description | Cost | H.L. |
+|-----------|------|-------------|------|------|
+| Feature Alteration Implant | N | Facial change (3 hrs), +4 disguise rolls | 3500 | 1d6+1 |
+| Sectional Cybernetics Mount | MA | Cyberhand/foot only mount | 300 | 3 |
+| Quick-Change Mount | N | Fast swap cyberlimb system | 450 | 3 |
+
+---
+
+# Biomechanical Cyberware (EMP-Risk Systems)
+
+> [!warning] EMP Vulnerability  
+> These systems introduce **failure chances when hit by EMP weapons**.
+
+| Cyberware | Surg. | Description | Cost | H.L. |
+|-----------|------|-------------|------|------|
+| Biomechanical Cyberoptic | MA | 10% chance affected by EMP, 2 options | 1000 | 2 |
+| Biomechanical Cyberaudio | MA | 10% chance affected by EMP, 3 options | 1000 | 2 |
+| Biomechanical Cyberarm | CR | 20% EMP failure, 8 flesh + 8 SDP, 1 option | 6000 | 2 |
+| Biomechanical Cyberleg | CR | 20% EMP, 2d6 kick, 8 flesh + 12 SDP, 1 option | 4000 | 2 |
+
+---
+
+# Biomechanical Frames (Internal Reinforcement)
+
+> [!danger] Full Body Enhancement  
+> Integrated skeletal reinforcement—**huge power boost, heavy humanity cost**.
+
+| Cyberware | Surg. | Description | Cost | H.L. |
+|-----------|------|-------------|------|------|
+| Biomechanical Frame Sigma | MA | Built into body, BOD 12, BTM -5 | 18,000 | 3d6 |
+| Biomechanical Frame Beta | MA | Built into body, BOD 14, BTM -6 | 24,000 | 4d6 |
+| Biomechanical Frame Omega | MA | Built into body, BOD 16, BTM -7 | 30,000 | 4d6 |
+
+---
+
+# Chipware
+
+> [!info] Chipware System  
+> Requires a **Chipware Socket or Interface Plug** to function.  
+> Chipware allows temporary or permanent access to **skills, behaviors, and enhancements**.
+
+---
+
+## Standard Chipware
+
+| Chip | Description | Cost | H.L. |
+|------|------------|------|------|
+| Adrenaline/Endorphin Surge | Ignore Pain/Exhaustion, +1 BOD 3 times/day | 800 | — |
+| Ambidexterity Chip | Makes user ambidextrous | 800 | — |
+| APTR Reflex Chips | Reflex/tech-based skill chips | varies | — |
+| Auditory Recognition Chips | Requires enhanced hearing, Sound Edit (max +2) | 150/level | — |
+| Business Trip Chip | +1 Language, Culture, Business Law | 800 | — |
+| Courier Chip | Implants data into user’s brain | 600 | — |
+| Crypto Chips | Randomly generated substitution word code | 600 per 2 | — |
+| DeathTrance | 1–3 minutes to enter, Medtech 25+ to detect life | 1000 | — |
+| Digi-Tone ID | Used with cyberaudio to recognize phone numbers | 70 | — |
+| Dream Suppressant Chip | Dream-free sleep, lose 1 EMP/week of use | 300 | — |
+| Enduro Chip | +2 vs Endurance, reduces sea sickness | 450 | — |
+| Facedown Chip | +1 to Facedown rolls | 150 | — |
+| “Fish N’ Chips” | Appetite control device | 85 | — |
+| Home Chip | Very difficult COOL/Resist Torture check to resist | 940 | — |
+| Increased Neural Feedback | Halves chip insertion time, burns out in 24 hrs | +400 | — |
+| Independent Action Chip | Each arm acts independently | 250 | — |
+| Major City Map | Contour maps, requires video imager/subscreen | 110 | — |
+| Maximum Lover Chip | +2 Seduction | 1300 | — |
+| Memory Compression | +3 skill levels, reduces memory usage | +200–400 | — |
+| Mind Games | 300+ programs available | 40 | — |
+| M.O. Chips | One yes/no answer for INT 15+ check | 1200 | — |
+| MRAM Memory Chips | INT and cognitive skill storage | varies | — |
+| Navigation/Orientation Chip | Requires phone splice/radio link, accurate to 5m | 250 | — |
+| PhotoMemory RAM Chip | Perfect recall (INT roll) | 1600 | — |
+| Police Visual Rec Chip | Identify criminals/licenses | 200/level | — |
+| Poser Impersonation Chip | Specific knowledge subject +2, Perform +1 | 900–1100 | — |
+| Programmable Chipware | Provides basic knowledge of a procedure | 50 | — |
+| Redundancy Loop | Fails at worst possible time | 50–75% | — |
+| Security Chips | Erasable/destroyable chips | +50/75 | — |
+| Shape Recognition | Picks out chosen object, requires Time Square+ | 500 | — |
+| “SomaWare” Sleep Chip | Normal sleep after 15 uses, COOL 15+ needed | 1000 | — |
+| Space Chip | Survival +2, Highrider Culture +1 | 900 | — |
+| Special Operative Chip | +1 Language, Geography, and one other skill | 900 | — |
+| Speedreading Chip | Half to one-third normal reading time | 250 | — |
+| Stress Chip | +1 COOL for morale, +1 EMP interaction | 350 | — |
+| Stutter Chipping | Prevents shooting through friendlies (1 turn) | 310 | — |
+| Tourism Chip | +1 Language, Culture, General Knowledge | 750 | — |
+| Visual Recognition Chips | INT + chip +1d10 vs skills (Tech/Corp/etc) | 100/level | — |
+| Weaponmasters Smart Chip | Arasaka Tech/Thermo available (max +3) | 270/level | — |
+
+---
+
+## Behaviour Chips
+
+> [!danger] Personality Override  
+> These chips **alter behavior, identity, or personality traits**.  
+> High Humanity Loss and serious narrative consequences.
+
+| Chip | Description | Cost | H.L. |
+|------|------------|------|------|
+| Stronger Behaviour Chip | 15+ COOL roll to remove, failed = stuck | 1000+ | 1d6/2 |
+| Honey Plain | Seductress programming | 1000 | 1d6/2 |
+| James Bond | COOL +1 (max 11), elite agent persona | 1000 | 1d6/2 |
+| Kick Ass | COOL +2 (11), EMP -2, enhances aggression | 2000 | 1d6/2 |
+| Perfect Soldier | COOL +3 (11), EMP -2, INT -2 non-combat | 2000 | 1d6/2 |
+| Sunny Day | Feel happy, +4 vs Intimidation, +2 Resist Torture | 2000 | 1d6/2 |
+| Xargish Khan | EMP -1, COOL 10, torture/kill tendencies | 4000 | 1d6/2 |
+
+---
+
+# Animal Cyberware
+
+> [!info] Animal Systems  
+> Most animal cyberware supports **standard human options**, adapted for animal physiology.  
+> Often used in **security, military, or nomad ecosystems**.
+
+---
+
+## Animal Neuralware
+
+| Cyberware | Surg. | Description | Cost | H.L. |
+|-----------|------|-------------|------|------|
+| Basic Processor | M | Required for all neuralware | 500 | 1d6 |
+| Reflex Boost | N | +1 to REF | 500 | 2d6 |
+| Sensory Boost (Smell/Audio) | N | Boost olfactory or hearing | 250 | 1d6/2 |
+| Chipslot | N | Animal can use chips equal to INT | 100 | 1d6/2 |
+| Input Plugs | M | Interface plugs, requires Link | 100 | 1d6 |
+| Weapon Link | N | +2 to smartgun attacks | 100 | 2 |
+
+---
+
+## Animal Chipware
+
+| Cyberware | Description | Cost | H.L. |
+|-----------|-------------|------|------|
+| Stress Chip | +1 COOL, +1 EMP interaction | 100 | 0 |
+| Berserk Chip | +2 to hit, ignores COOL rolls, +2 melee damage | 100 | 0 |
+| Skill Chip (per level) | Max +3 | 100/level | 0 |
+| Recording Chip | Records 4 hours of sensory input | 1500 | 0 |
+| IFF Chip | Badge-based identification system | 4000 | 0 |
+| Watchdog Chip | Codeword to disarm/control animal | 250 | 0 |
+| Behavior Chip | Perfect pet / loyalty +3 | 500 | 0 |
+
+---
+
+## Animal Cyberoptics
+
+| Cyberware | Surg. | Description | Cost | H.L. |
+|-----------|------|-------------|------|------|
+| Basic Eye | MA | 3 option slots per eye | 400 | 1d6 |
+| Infrared | N | See in darkness via heat | 200 | 2 |
+| Microscopes | N | Microscopic vision | 400 | 3 |
+| Telescopes | N | Zoom up to 20x | 300 | 3 |
+| Anti-Dazzle | N | Immune to flash/blinding | 100 | 1 |
+| Low-Lite | N | See in dim/near-dark | 200 | 2 |
+| Thermograph | N | Detect heat patterns | 200 | 3 |
+
+---
+
+## Animal Cyberaudio
+
+| Cyberware | Surg. | Description | Cost | H.L. |
+|-----------|------|-------------|------|------|
+| Basic Audio | M | Supports any audio options | 500 | 1d6 |
+| Scrambler | N | Cannot understand without descrambler | 100 | 1 |
+| Bug Detector | N | Detects bugs up to 3m (60% effective) | 150 | 1 |
+
+---
+
+## Animal Cyberlimbs
+
+| Cyberware | Surg. | Description | Cost | H.L. |
+|-----------|------|-------------|------|------|
+| Basic Limb | CR | 2 option slots | 1000 | 2d6 |
+| RealSkin Covering | N | Looks real (Awareness check to detect) | 200 | -2 |
+| Secret Compartment | N | Hidden 2"x2"x4" storage | 100 | 1 |
+| Tape Recorder | N | Records from connected source | 200 | 1 |
+| Limb Armor | N | +20 SP to limb | 300 | 1 |
+| Added Strength | N | +1d6 damage, +6 STR (all limbs required) | 250 | 3 |
+| Popup Gun | N | Weapon scales with body type | 200 | 1d6 |
+| Cyberweapon | N | Standard cyberweapon rules (½ humanity) | varies | 50% HC |
+
+---
+
+## Animal Cyberweapons
+
+| Cyberware | Description | Cost | H.L. |
+|-----------|-------------|------|------|
+| Cyberclaws | Large animals only, +1d6 damage | 300 | 2d6 |
+| Cyberfangs | Not for small animals, +1d6 damage | 200 | 1d6 |
+| External Weapon Harness | BODY 2 minimum, limits pop-up weapons | 200 | 1d6 |
+
+---
+
+## Animal Bioware
+
+| Cyberware | Description | Cost | H.L. |
+|-----------|-------------|------|------|
+| Muscle & Bone Lace | +2 BODY | 750 | 1d6/2 |
+| SkinWeave | 12 SP, difficult to detect | 1000 | 2d6 |
+| Grafted Muscle | +1 BODY (max +2) | 1000/+1 | 2d6 |
