@@ -827,13 +827,6 @@ title: Cybernetics
 | GP Exoskeleton (B) | MA | STR 21, SDP 20, SP 8, MA 4, REF 5 | 15,000 | 6d6 |
 | Underwater Gamma | MA | STR 12/10 | 10,000 | 2d6 |
 | Underwater Delta | MA | STR 14/12 | 12,000 | 2d6 |
-
----
-
-# Underwater Systems
-
-| Cyberware | Surg. | Description | Cost | H.L. |
-|-----------|------|-------------|------|------|
 | Underwater Pi | MA | STR 16/14 | 14,000 | 3d6 |
 
 ---
