@@ -34,7 +34,7 @@ title: Shock
 >
 > When Humanity reaches **0**, the person enters **psychosis**.
 
-| Humanity | 54 / 80 |
+| Humanity | 52 / 80 |
 
 ---
 
@@ -97,6 +97,9 @@ title: Shock
 
 - **Cybermodem Link (4)**  
   Direct neural connection to an external cybermodem.
+
+- **NeuroCode Optic (2)**  
+  +2 to hacking / interface checks by turning encryption signals into readable structures.
 
 - **Extra Memory (1)**  
   +1MU.
