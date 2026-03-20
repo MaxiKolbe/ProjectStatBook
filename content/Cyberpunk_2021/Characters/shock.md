@@ -137,7 +137,7 @@ title: Shock
 
 **Neapolitan Camorra Cyberdeck (10)**
 
-Portable deck *(Advanced tier)*
+Portable deck *(Advanced+ tier)*
 
 ---
 
