@@ -34,7 +34,7 @@ title: Shock
 >
 > When Humanity reaches **0**, the person enters **psychosis**.
 
-| Humanity | 52 / 80 |
+| Humanity | 55 / 80 |
 
 ---
 
@@ -95,7 +95,7 @@ title: Shock
 - **Neuralware Processor (4)**  
   Basic processor. Must have for all systems.
 
-- **Cybermodem Link (4)**  
+- **Cybermodem Link (1)**  
   Direct neural connection to an external cybermodem.
 
 - **NeuroCode Optic (2)**  
