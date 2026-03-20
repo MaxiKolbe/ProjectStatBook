@@ -5,7 +5,7 @@ title: Shock
 ![[shock.png|300]]
 
 **Role:** Netrunner  
-**Cash:** €$7,682
+**Cash:** €$6,682
 
 ---
 
@@ -26,7 +26,7 @@ title: Shock
 | INTELLIGENCE | 10 |
 | COMPOSURE | 7 |
 | ATTRACTIVENESS | 6 |
-| EMPATHY | 7 / 8 |
+| EMPATHY | 6 / 8 |
 | LUCK | 3 / 3 |
 
 > [!warning] Humanity
@@ -34,7 +34,7 @@ title: Shock
 >
 > When Humanity reaches **0**, the person enters **psychosis**.
 
-| Humanity | 63 / 80 |
+| Humanity | 54 / 80 |
 
 ---
 
@@ -92,14 +92,26 @@ title: Shock
 
 # Cyberware
 
+- **Neuralware Processor (4)**  
+  Basic processor. Must have for all systems.
+
 - **Cybermodem Link (4)**  
-  Direct neural connection to a cybermodem.
+  Direct neural connection to an external cybermodem.
+
+- **Extra Memory (1)**  
+  +1MU.
 
 - **Amplified Hearing (1)**  
   +1 to awareness when using audio cues.
 
 - **Catspaw Stealth Foot (2)**  
   +2 to Stealth.
+
+- **Wet Drive (3)**  
+  Holds 1MU of stored data.
+
+- **Wetdrive Access Link (1)**  
+  Internal link to wetdrive
 
 *(Limits, strain, and side effects handled narratively.)*
 
