@@ -1,7 +1,7 @@
 ---
 title: Mister (Post Italy)
 ---
-![[poster_italy_mister.png|300]]
+![[post_italy_mister.png|300]]
 
 **Role:** Fixer  
 **Cash:** €$10,296
