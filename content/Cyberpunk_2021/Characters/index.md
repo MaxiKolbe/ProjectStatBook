@@ -21,6 +21,6 @@ The system provides a framework for representing character abilities, but it is 
 - [Mister](./mister)
 - [Michelangelo](./michelangelo)
 - [Remi](./remi)
-- [Remi Post Italy](./remi_post_italy.md)
+- [Remi Post Italy](./post_italy_remi.md)
 - [Shock](./shock)
 - [Tetra](./tetra)

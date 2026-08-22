@@ -2,7 +2,7 @@
 title: Remi "White" Cage (Post Italy)
 ---
 
-![[remi_post_italy.png|300]]
+![[post_italy_remi.png|300]]
 
 **Role:** Rockerboy  
 **Cash:** €$3,617
