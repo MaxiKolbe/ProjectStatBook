@@ -138,6 +138,7 @@ House in a **moderate security zone**
 ### Vehicles
 
 - **Ducati Monster 821**
+-  **Hyundai N-Vision**
 
 ---
 
