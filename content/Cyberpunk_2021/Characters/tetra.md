@@ -20,7 +20,7 @@ title: Tetra
 
 | Stat | Value |
 |-----|-----|
-| BODY | 6 |
+| BODY | 7 |
 | REFLEXES | 10 |
 | TECHNOLOGY | 3 |
 | INTELLIGENCE | 4 |
