@@ -19,3 +19,4 @@ The system provides a framework for representing character abilities, but it is 
 - [Cybernetics](./cybernetics)
 - [Mechanics](./mechanics)
 - [Skills List](./skillslist)
+- [Weapons](./skillslist.md)
