@@ -5,7 +5,7 @@ title: Shock (Post Italy)
 ![[post_italy_shock.png|300]]
 
 **Role:** Netrunner  
-**Cash:** €$6,682
+**Cash:** €$35,682
 
 ---
 
@@ -53,13 +53,14 @@ title: Shock (Post Italy)
 
 ## Social / Awareness
 
-- Human Perception 2
+- Human Perception 3
 - Resist Torture / Drugs 5
 
 ---
 
 ## Combat / Physical
 
+- Handgun 2
 - Dodge & Escape 3
 - Melee 2
 - Stealth 5
@@ -72,7 +73,7 @@ title: Shock (Post Italy)
 - Programming 6
 - System Knowledge 3
 - Mathematics 2
-- Awareness / Notice 3
+- Awareness / Notice 4
 - Composition 3
 - Hide / Evade 4
 - Education & General Knowledge 4
@@ -86,7 +87,7 @@ title: Shock (Post Italy)
 - CyberTech 6
 - Electronics 3
 - Pick Lock 5
-- Pick Pocket 2
+- Pick Pocket 3
 
 ---
 
@@ -137,7 +138,26 @@ title: Shock (Post Italy)
 
 **Neapolitan Camorra Cyberdeck (10)**
 
-Portable deck *(Advanced+ tier)*
+Portable deck *(Advanced++ tier — Heavily Customized)*
+
+Shock has extensively modified the deck around her personal operating style.
+
+Upgrades include:
+
+- Custom firmware
+- Improved cooling
+- System stability modifications
+- Personalized intrusion architecture
+- Custom programs
+- Improved diagnostic systems
+- Optimized hardware configuration
+
+> [!note] Advanced++ Ceiling
+> Despite extensive customization, the Camorra Cyberdeck remains **Advanced++ tier**.
+>
+> Shock has begun reaching the practical limits of what can be accomplished through conventional hardware upgrades alone.
+>
+> Reaching **Military-tier** performance would require access to genuinely restricted military or corporate technology.
 
 ---
 
@@ -172,6 +192,26 @@ Includes:
 - Clothing sets *(Urban Flash, Leisurewear)*
 - Earrings
 
+Shock has heavily upgraded the apartment into a dedicated netrunning and electronics workspace.
+
+### Netrunning Den
+
+- Dedicated local servers / compute hardware
+- Multiple isolated testing systems
+- Air-gapped malware analysis workstation
+- Encrypted offline data storage
+- Independent backup power
+- Improved cooling systems
+- Signal-analysis equipment
+- Communications equipment
+- Cyberdeck diagnostic equipment
+- Electronics repair tools
+- Spare computer and cyberdeck components
+- Burner systems for disposable operations
+- Expanded workstation and display setup
+
+The apartment has effectively become a highly specialized private netrunning lab.
+
 ---
 
 ### Equipment
@@ -202,6 +242,14 @@ Exceptional intrusion, decryption, and system manipulation capabilities.
 
 ### Ghost in the System
 Hard to trace and even harder to pin down once inside a network.
+
+### Custom Netrunning Environment
+
+Shock has built a highly specialized private netrunning lab around her own methods and equipment. Her infrastructure provides extensive resources for programming, hardware modification, malware analysis, data storage, and preparation before major operations.
+
+### Hardware Ceiling
+
+Shock's skills have begun to outgrow readily available civilian and criminal-market technology. Meaningful improvements beyond her current setup increasingly require access to **restricted corporate, military, or experimental hardware**, rather than simply additional money.
 
 ---
 
